@@ -1,0 +1,20 @@
+[
+    {
+        "name": " Yamaha MT 15",
+        "description": "155 cc, 14.7 N",
+        "price": "$16.200.000 COP",
+        "image": "https://images.livemint.com/img/2023/02/16/1600x900/ffffffff_1676546120245_1676546128855_1676546128855.png"
+    },
+    {
+        "name": " Yamaha Fz 3.0",
+        "description": "149 cc, 12.8 N",
+        "price": "$12.500.000 COP",
+        "image": "https://autostopmagazine.com/online/wp-content/uploads/2024/03/Yamaha-FZ-version-3.0_1.png"
+    },
+    {
+        "name": " Yamaha xtz 150",
+        "description": "149 cc, 13.1 N",
+        "price": "$13.000.000 COP",
+        "image": "https://images.ctfassets.net/8zlbnewncp6f/232lBlEUK7IVZcDd5vlbsM/edd9f2e4cbe2a4663b824bd7d478867d/Yamaha-XTZ-150.png"
+    }
+]

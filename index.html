@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Concesionario</title>
+  <!-- ruta relativa explícita -->
+  <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+  <div id="header-root"></div>
+
+  <div class="layout">
+    <aside id="sidebar-root"></aside>
+
+    <main class="content">
+      <h2>Producto destacado</h2>
+      <img src="img/Mt15.jpg" alt="">
+
+      <template id="product-template">
+        <!-- ... plantilla ... -->
+      </template>
+
+      <section id="products-list" class="products-grid"></section>
+
+      <section id="products-wc" class="products-grid"></section>
+    </main>
+  </div>
+
+  <div id="footer-root"></div>
+
+  <!-- rutas relativas explícitas y defer -->
+  <script src="./js/product-card.js" defer></script>
+  <script src="./js/main.js" defer></script>
+</body>
+</html>
